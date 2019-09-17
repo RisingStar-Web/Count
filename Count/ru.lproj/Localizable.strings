@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  Count
+
+  Created by Mac on 15.04.2018.
+  Copyright © 2018 FokinMC. All rights reserved.
+*/
+"Swipe the row to the left in order to edit the price or delete" = "Смахите влево для того чтобы изменить или удалить строку";
+"To add a new object, tap plus" = "Для добавления нового события нажмите плюс";
+"Hello! \nWe are glad that you use the \"Pay to Others\" application. \n\nYou have a free version installed. You can simultaneously use 3 points in it. \n\nYou can remove the restrictions in the pro version." = "Здравствуйте! \nМы рады, что вы  пользуетесь приложением \"Плати другим\". \n\nУ вас установлена бесплатная версия. В ней вы можете одновременно использовать 3 пункта. \n\nУбрать ограничения можно в полной версии.";
+"Pay another" = "Плати другим!";
+"Delete" = "Удалить";
+"Are you sure you want to delete the object " = "Вы уверены что хотите удалить ";
+"Balance" = "Баланс";
+"Price" = "Цена";
+"New price" = "Новая цена";
+"Cancel" = "Отменить";
+"Edit" =  "Изменить";
+"Add balance" = "Пополнить баланс";
+"Use visit" = "Отметить визит";
+"Price per visit" = "Цена за раз";
+"Edit object" = "Редактировать";
+"Save" = "Сохранить";
+"New object" = "Новая запись";
+"Name" = "Название";
+"New name" = "Новое название";
+"Enter name" = "Введите название";
+"Price one time" = "Цена за раз";
+"Add" = "Добавить";
+"No price" = "Нет цены";
+"Enter the price for one item" = "Введите цену за раз";
+"Ok" = "Хорошо";
+"swipe" =  "swipeRu";
+"See price" = "Посмотреть цены";
+"Last visit" = "Прошлый визит";
+"Today" = "Сегодня";
+"Last refill" = "Баланс пополнен";
+"Purchases" = "Покупки";
+"You can buy these options for your app" = "Вы можете купить для вашего удобства";
+"Switch off Ads" = "Отключение рекламы";
+"Disable all ads in your application" = "Отключение всей рекламы в вашем приложении";
+"Pro version" = "Полная версия";
+"Any number of items on your list" = "Учет любого количества ваших занятий и дел";
+"Terms of Use" = "Правила пользования";
+"Privacy Policy" = "Политика конфеденциальности";
+"Restore" = "Восстановление покупок";
+"If you have bought any options, your purchases will be restored free. This may take a few minutes." = "Ранее совершенные покупки будут восстановлены бесплатно. Это может занять некоторое время.";
+"Thank you!" = "Благодарю";
+"Field is empty" = "Поле не заполнено";
+"Enter the sum for refill acount" = "Введите сумму для пополнения баланса";
+"Yesterday" = "Вчера";
+"" = "";
+"" = "";
+

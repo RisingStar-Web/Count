@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Count
+
+  Created by Mac on 15.04.2018.
+  Copyright © 2018 FokinMC. All rights reserved.
+*/
+"Swipe the row to the left in order to edit the price or delete" = "Смахните строку влево для того, чтоб отредактировать цену или удалить";
+"Pay another" = "Заплати другому";

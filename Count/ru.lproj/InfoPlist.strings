@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Count
+
+  Created by Mac on 16.04.2018.
+  Copyright © 2018 FokinMC. All rights reserved.
+*/
+//"CFBundleDisplayName" = "Плати\tдругим";
+//'MY'" "'APP'
+"CFBundleDisplayName" = "Плати            Другим";
+"CFBundleName" = "Плати другим";
+//Pay to Others

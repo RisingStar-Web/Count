@@ -1,0 +1,45 @@
+
+/* Class = "UITextField"; text = "1"; ObjectID = "4OU-OM-blT"; */
+"4OU-OM-blT.text" = "1";
+
+/* Class = "UILabel"; text = "Отметить посещений"; ObjectID = "DJ7-C9-wSk"; */
+"DJ7-C9-wSk.text" = "Отметить посещений";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "EL3-pT-6I0"; */
+"EL3-pT-6I0.text" = "22";
+
+/* Class = "UILabel"; text = "140"; ObjectID = "Fcj-Rq-GkJ"; */
+"Fcj-Rq-GkJ.text" = "140";
+
+/* Class = "UITextField"; text = "Название"; ObjectID = "QGc-sz-DXw"; */
+"QGc-sz-DXw.text" = "Название";
+
+/* Class = "UILabel"; text = "Once"; ObjectID = "Qif-3U-ag1"; */
+"Qif-3U-ag1.text" = "Once";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Rdk-1I-57D"; */
+"Rdk-1I-57D.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "140"; ObjectID = "SHk-A6-c6v"; */
+"SHk-A6-c6v.text" = "140";
+
+/* Class = "UILabel"; text = "Тренировка Юра"; ObjectID = "Tdi-zN-1nF"; */
+"Tdi-zN-1nF.text" = "Тренировка Юра";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "boz-9D-bQj"; */
+"boz-9D-bQj.text" = "Price";
+
+/* Class = "UITextField"; text = "Цена за раз"; ObjectID = "ilo-H5-pp9"; */
+"ilo-H5-pp9.text" = "Цена за раз";
+
+/* Class = "UILabel"; text = "Swipe"; ObjectID = "qfr-tD-8KV"; */
+"qfr-tD-8KV.text" = "Swipe";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "sn6-8o-Yve"; */
+"sn6-8o-Yve.text" = "Balance";
+
+/* Class = "UILabel"; text = "Пополнить баланс"; ObjectID = "zdb-zd-NZK"; */
+"zdb-zd-NZK.text" = "Пополнить баланс";
+
+/* Class = "UIButton"; normalTitle = "Добавить"; ObjectID = "zmE-VJ-aw7"; */
+"zmE-VJ-aw7.normalTitle" = "Добавить";
