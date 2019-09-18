@@ -18,8 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        UINavigationBar.appearance().barTintColor = #colorLiteral(red: 0, green: 0, blue: 0, alpha: 1)
-        UINavigationBar.appearance().tintColor = #colorLiteral(red: 0.9450980392, green: 0.5019607843, blue: 0.1960784314, alpha: 1)      //цвет текста
+        UINavigationBar.appearance().barTintColor = #colorLiteral(red: 0.2196078449, green: 0.007843137719, blue: 0.8549019694, alpha: 1)
+        UINavigationBar.appearance().tintColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)      //цвет текста
 //        UITabBar.appearance().tintColor = #colorLiteral(red: 0.672329545, green: 0.4029557109, blue: 0.7608545423, alpha: 1)
 //        UITabBar.appearance().barTintColor = #colorLiteral(red: 0.9830823541, green: 0.8759781718, blue: 0.9753966928, alpha: 1)
 //        UITabBar.appearance().selectionIndicatorImage = UIImage(named: "tabSelectBG")
@@ -31,7 +31,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 //            UINavigationBar.appearance().titleTextAttributes = [NSForegroundColorAttributeName: UIColor.black, NSFontAttributeName: barFont]
 //        }
         if let barFont = UIFont(name: "AppleSDGothicNeo-Light", size: 24) {
-            UINavigationBar.appearance().titleTextAttributes = [NSAttributedStringKey.foregroundColor: #colorLiteral(red: 0.9450980392, green: 0.5019607843, blue: 0.1960784314, alpha: 1), NSAttributedStringKey.font: barFont] as [NSAttributedStringKey : Any]
+            UINavigationBar.appearance().titleTextAttributes = [NSAttributedStringKey.foregroundColor: #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1), NSAttributedStringKey.font: barFont] as [NSAttributedStringKey : Any]
         }
         
 //        // реклама
